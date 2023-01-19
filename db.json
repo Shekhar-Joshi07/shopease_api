@@ -514,7 +514,7 @@
       "prd_discount": ""
     }
    ],
-   "Deals of the Day": [
+   "Deals_of_the_Day": [
     {
       "id": 1,
       "image": "https://cdn.shopclues.com/images1/thumbnails/115246/200/200/152689876-115246212-1659944528.jpg",
@@ -566,7 +566,7 @@
     }
   ],
 
-  "Your Gadgets Store": [
+  "Your_Gadgets_Store": [
     {
       "id": 7,
       "image": "https://cdn.shopclues.com/images1/thumbnails/99370/200/200/145508146-99370521-1668508420.jpg",
@@ -620,7 +620,7 @@
     }
   ],
 
-  "Daily Essentials": [
+  "Daily_Essentials": [
     {
       "id": 13,
       "image": "https://cdn.shopclues.com/images1/thumbnails/105589/280/1/149278210-105589660-1585251645.jpg",
@@ -659,7 +659,7 @@
     }
   ],
 
-  "Prime Mall": [
+  "Prime_Mall": [
     {
       "id": 18,
       "image": "https://gd.image-gmkt.com/li/066/347/1706347066.g_800-w-st_g.jpg",
@@ -678,7 +678,7 @@
     }
   ],
 
-  "Festive Specials": [
+  "Festive_Specials": [
     {
       "id": 29,
       "image": "https://cdn.shopclues.com/images/thumbnails/88912/320/320/131487154GOLDENPEACOCK1512550255.jpg",
@@ -716,7 +716,7 @@
       "price": "Upto 60% off"
     }
   ],
-  "Trending Fashion Zone": [
+  "Trending_Fashion_Zone": [
     {
       "id": 34,
       "image": "https://cdn.shopclues.com/images1/thumbnails/95098/200/200/142654363-95098986-1653063215.jpg",
