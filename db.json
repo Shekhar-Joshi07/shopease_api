@@ -513,5 +513,238 @@
       "old_prices": "",
       "prd_discount": ""
     }
-   ]
+   ],
+   "Deals of the Day": [
+    {
+      "id": 1,
+      "image": "https://cdn.shopclues.com/images1/thumbnails/115246/200/200/152689876-115246212-1659944528.jpg",
+      "title": "Venerate Headphone Stand Headset Holder Earphone Stand with Aluminum Supporting Bar (Black)",
+      "real_price": "₹269",
+      "price": "₹1999",
+      "discount_off": "87% off"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.shopclues.com/images1/thumbnails/81476/200/200/135627858-81476269-1665754103.jpg",
+      "title": "MTR MT310 Dual Sim 1.8 inches (4.57 cm) Display Feature Phone",
+      "real_price": "₹749",
+      "price": "₹999",
+      "discount_off": "25% off"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.shopclues.com/images1/thumbnails/71795/200/200/128902274-71795769-1653057803.jpg",
+      "title": "Premium Quality Nylon Braded Aux Cable 1.2 Meter 3.5Mm Male To Male Stereo Audio Cable (Assorted Color)",
+      "real_price": "₹250",
+      "price": "₹399",
+      "discount_off": "37% off"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.shopclues.com/images1/thumbnails/115737/200/200/152853766-115737455-1637323013.jpg",
+      "title": "Dizom Dz-104 Hip-Hop Series With Extra Bass Neckband Bluetooth Headset (Black, In The Ear)",
+      "real_price": "₹389",
+      "price": "₹2499",
+      "discount_off ": "84% off"
+    },
+    {
+      "id": 5,
+      "image ": "https://cdn.shopclues.com/images1/thumbnails/115044/200/200/152634665-115044372-1629705035.jpg",
+      "title": "ZEB-UCC100 2.0 Data Charging Cable Charger for All Android Mobile Phones",
+      "real_price": "₹139",
+      "price": "₹899",
+      "discount_off": "85% off"
+    },
+    {
+      "id": 6,
+
+      "image ": "https://cdn.shopclues.com/images1/thumbnails/95123/200/200/142672875-95123237-1645016499.jpg",
+      "title": "USB Type-C to Type-A 3.0 Male Nylon Braided Cable Fast Charging (White)",
+      "real_price": "₹139",
+      "price": "₹899",
+      "discount_off": "85% off"
+    }
+  ],
+
+  "Your Gadgets Store": [
+    {
+      "id": 7,
+      "image": "https://cdn.shopclues.com/images1/thumbnails/99370/200/200/145508146-99370521-1668508420.jpg",
+      "title": "i7S TWS Twins Wireless In the Ear Earphone",
+      "real_price": "₹299",
+      "price": "₹2999",
+      "discount_off": "90% off"
+    },
+    {
+      "id": 8,
+
+      "image ": "https://cdn.shopclues.com/images1/thumbnails/95357/200/200/142826933-95357827-1664550819.jpg",
+      "title": "HBS-730 In the Ear Bluetooth Neckband Headphone (Black)",
+      "real_price": "₹299",
+      "price": "₹1099",
+      "discount_off ": "73% off"
+    },
+    {
+      "id": 9,
+
+      "image": "https://cdn.shopclues.com/images1/thumbnails/112883/200/200/151860087-112883707-1664649308.jpg",
+      "title": "Innotek Mini K1 Universal Wireless Noise Cancelling Bluetooth Earpiece Smart Call Answering for All Smartphones",
+      "real_price": "₹169",
+      "price": "₹599",
+      "discount_off": "72% off"
+    },
+    {
+      "id": 10,
+
+      "image": "https://cdn.shopclues.com/images1/thumbnails/98012/200/200/144475154-98012302-1664648956.jpg",
+      "title": "Refurbished Nokia 1100 Black Single SIM 1 inches(2.54 cm) Monochrome graphic Display (1 Year Warranty By Warranty Plaza)",
+      "real_price": "₹999",
+      "price": "₹1999",
+      "discount_off": "50% off"
+    },
+    {
+      "id": 11,
+
+      "image ": "https://cdn.shopclues.com/images1/thumbnails/98012/200/200/144475154-98012302-1664648956.jpg",
+      "title": "Refurbished Nokia 1100 Black Single SIM 1 inches(2.54 cm) Monochrome graphic Display (1 Year Warranty By Warranty Plaza)",
+      "real_price": "₹999",
+      "price": "₹1999",
+      "discount_off": "50% off"
+    },
+    {
+      "id": 12,
+
+      "image ": "https://cdn.shopclues.com/images/banners/view_all_demo.jpg",
+      "slick-slide 16": "View All",
+      "heading href": ""
+    }
+  ],
+
+  "Daily Essentials": [
+    {
+      "id": 13,
+      "image": "https://cdn.shopclues.com/images1/thumbnails/105589/280/1/149278210-105589660-1585251645.jpg",
+      "category": "Cooking Essentials",
+      "price": "Starting at Rs.49"
+    },
+    {
+      "id": 14,
+      "image": "https://cdn.shopclues.com/images1/thumbnails/105589/320/1/149278289-105589933-1585251885.jpg",
+      "category": "Skin,Hair & Body",
+      "price": "Starting at Rs.99"
+    },
+    {
+      "id": 15,
+      "image 3": "https://cdn.shopclues.com/images1/thumbnails/104441/280/1/148788228-104441348-1578472379.jpg",
+      "Kitchen Essentials": "Skin,Hair & Body",
+      "price": "Starting at Rs.49"
+    },
+    {
+      "id": 16,
+      "image 4": "https://cdn.shopclues.com/images1/thumbnails/105520/280/1/149254102-105520442-1584863770.jpg",
+      "category": "Masks,Sanitizers & More",
+      "price": "Starting at Rs.99"
+    },
+    {
+      "id": 17,
+      "image 5": "https://cdn.shopclues.com/images/thumbnails/42332/280/1/966030079473255231PUTPaCZnL146606056314665883171470319810.jpg",
+      "category": "Cleaning & Dusting Supplies",
+      "price": "Starting at Rs.109"
+    },
+    {
+      "id": 18,
+      "image 6": "https://cdn.shopclues.com/images1/thumbnails/105577/320/320/149274414-105577366-1585235325.jpg",
+      "category": "Laundry & Detergents",
+      "price": "Starting at Rs.99"
+    }
+  ],
+
+  "Prime Mall": [
+    {
+      "id": 18,
+      "image": "https://gd.image-gmkt.com/li/066/347/1706347066.g_800-w-st_g.jpg",
+      "title": "D20 Fitness Smartwatch (Black Strap Free Size)",
+      "real_price": "₹499",
+      "price": "₹1299",
+      "discount_off": "62%off"
+    },
+    {
+      "id": 19,
+      "image 2": "https://gd.image-gmkt.com/li/397/137/1729137397.g_800-w-st_g.jpg",
+      "title": "Trueware Wave 950 Plastic Insulated Cold Water Bottle",
+      "real_price": "₹239",
+      "price": "₹460",
+      "discount_off": "48%off"
+    }
+  ],
+
+  "Festive Specials": [
+    {
+      "id": 29,
+      "image": "https://cdn.shopclues.com/images/thumbnails/88912/320/320/131487154GOLDENPEACOCK1512550255.jpg",
+      "category": "Women's Ethnic Wear",
+      "price": "Upto 80% Off"
+    },
+    {
+      "id": 30,
+      "image 2": "https://cdn.shopclues.com/images/detailed/41945/HandloomPinkKurta1_1469600960.jpg",
+      "category": "Men's Ethnic Wear",
+      "price": "Min 40% Off"
+    },
+    {
+      "id": 31,
+      "image 3": "https://cdn.shopclues.com/images/detailed/85345/129033198_Untitled1copy_1506507048.jpg",
+      "category": "Ethnic Footwear",
+      "price": "Upto 80% Off"
+    },
+    {
+      "id": 32,
+      "image 4": "https://cdn.shopclues.com/images/thumbnails/48680/320/320/61SUwF0UAAL1480795166.jpg",
+      "category": "Wooden Temples",
+      "price": "Upto 60% off"
+    },
+    {
+      "id": 33,
+      "image 4": "https://cdn.shopclues.com/images/thumbnails/84338/320/320/128352190Ganesh1505896312.jpg",
+      "category": "Pooja Essentials",
+      "price": "Upto 70% off"
+    },
+    {
+      "id": 34,
+      "image 4": "https://cdn.shopclues.com/images/thumbnails/84338/320/320/128352190Ganesh1505896312.jpg",
+      "category": "Wall Decors",
+      "price": "Upto 60% off"
+    }
+  ],
+  "Trending Fashion Zone": [
+    {
+      "id": 34,
+      "image": "https://cdn.shopclues.com/images1/thumbnails/95098/200/200/142654363-95098986-1653063215.jpg",
+      "title": "Fashlook Bheadingn Leatherite Casual Bi-fold Wallet For Men",
+      "real_price": "₹169",
+      "price": "₹1789",
+      "discount_off": "91% off"
+    },
+    {
+      "id": 35,
+      "image": "https://cdn.shopclues.com/images1/thumbnails/104223/200/200/148695185-104223914-1668508109.jpg",
+      "title": "Pause Men Silver Cotton Lapel Collar Cardigan",
+      "real_price": "₹379",
+      "price": "₹1299",
+      "discount_off": "71% off"
+    },
+    {
+      "id": 36,
+      "image 3": "https://cdn.shopclues.com/images1/thumbnails/105344/200/200/149172710-105344978-1666996516.jpg",
+      "title": "Trendyz Men Black Cotton Hooded Tshirt",
+      "real_price": "₹499",
+      "price": "₹899",
+      "discount_off": "44% off"
+    },
+    {
+      "id": 37,
+      "image 4": "https://cdn.shopclues.com/images/banners/view_all_demo.jpg",
+      "title": "View All"
+    }
+  ]
 }
